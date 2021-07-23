@@ -1,0 +1,27 @@
+.container{
+    text-align: center;
+    border-style: solid;
+    border-radius: 25px;
+    background-color: rgb(196, 218, 137);
+    
+}
+.container h1{
+    color: cornsilk;
+    background-color: rgb(85, 182, 182);
+    padding-top: 0%;
+}
+
+
+.gif{
+    margin: 20px;
+    width: 220px;
+    height: 180px;
+    border: darkblue;
+    border-radius: 10;
+    border-style: solid;
+    padding: 4px;
+    border-spacing: 5px;
+    background-color:wheat;
+    
+
+}
